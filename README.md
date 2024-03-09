@@ -16,7 +16,7 @@ Credits:
 
 Websites used multiple times for obtaining information and as a repository for my project:
 
-    Robin, Lopez.(February, 2024). Unsplash.com. DOI: https://unsplash.com/s/photos/beach.
+    Spratt, Annie (March, 2024). Unsplash.com. DOI: [https://unsplash.com/s/photos/beach](https://unsplash.com/s/photos/red-background).
 
     Github (2024). A free webservice for storing and deploying websites. Multiple pages retrieved from www.github.com February 22-25, 2024.
 
